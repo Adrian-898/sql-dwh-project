@@ -1,7 +1,7 @@
 /*
 Create Database & Schemas
 
-this script creates the database named dwh_project and sets up three schemas in it: 'bronze', 'silver', and 'gold'.
+Purpose: this script creates the database named dwh_project and sets up three schemas in it: 'bronze', 'silver', and 'gold'.
 
 INFO: this script will not run if a database with the same name already exists...
 */
