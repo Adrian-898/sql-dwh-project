@@ -10,7 +10,7 @@ Info2: we are also creating and altering (if it already exists) a stored procedu
 
 WARNING: crm_prd_info and crm_sales_details tables have been previously modified to accommodate the data loaded
 with this stored procedure, if you try to run this procedure directly without modifiyng these tables DDL's
-it won't work, refer to each mentioned table clean&load file to update them before running this procedure.
+it won't work, refer to each mentioned table clean&load_tests file to update them before running this procedure.
 */
 
 CREATE OR ALTER PROCEDURE silver.load_silver AS
